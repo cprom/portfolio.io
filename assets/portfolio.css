@@ -1,0 +1,52 @@
+body {
+  background-color: #333940;
+
+}
+
+.logo {
+  height: 40px;
+}
+
+.mainTitle {
+  color: white;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+.card {
+  border: none;
+  margin: 20px;
+}
+
+#projects {
+  margin:auto;
+}
+
+footer {
+  padding-top: 50px;
+  color: white;
+  text-align: center;
+
+
+}
+
+
+
+
+@media (max-width: 576px) {
+  form {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 40px;
+    background-color: white;
+    margin-top: 100px;
+
+  }
+}
