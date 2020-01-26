@@ -12,6 +12,7 @@ body {
   text-align: center;
 }
 
+
 .card-text {
   font-size: 30px;
   font-weight: bold;
@@ -24,6 +25,11 @@ body {
   margin: 20px;
 }
 
+a.projects {
+  color: #333940;
+  text-decoration: none;
+}
+
 #projects {
   margin:auto;
 }
@@ -33,8 +39,11 @@ footer {
   color: white;
   text-align: center;
 
-
 }
+
+.fab {
+  padding: 10px;
+ }
 
 
 @media (max-width: 576px) {
