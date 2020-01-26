@@ -28,6 +28,14 @@ body {
   margin:auto;
 }
 
+footer {
+  padding-top: 50px;
+  color: white;
+  text-align: center;
+
+
+}
+
 
 @media (max-width: 576px) {
   form {
