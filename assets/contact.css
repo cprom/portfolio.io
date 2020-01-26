@@ -7,6 +7,18 @@ body {
   height: 40px;
 }
 
+button.btn-primary{
+  background-color: #ff512f;
+  border: none;
+  margin: auto;
+}
+
+a.projects {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
 
 footer {
   padding-top: 50px;
