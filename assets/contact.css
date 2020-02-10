@@ -13,13 +13,6 @@ button.btn-primary{
   margin: auto;
 }
 
-a.projects {
-  text-decoration: none;
-}
-a:visited {
-  text-decoration: none;
-}
-
 footer {
   padding-top: 50px;
   color: white;
