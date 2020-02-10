@@ -14,6 +14,10 @@ h1 {
   margin-bottom: 5px;
 }
 
+#projects {
+  display: block;
+  
+}
 
 .card-text {
   font-size: 30px;
@@ -25,12 +29,18 @@ h1 {
 .card {
   border: none;
   margin: 20px;
+ 
 }
 
-a.projects {
+ p.card-text {
   color: #333940;
   text-decoration: none;
 }
+
+ a:link {
+   color: #333940;
+   text-decoration: none;
+ }
 
 #projects {
   margin:auto;
