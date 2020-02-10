@@ -33,7 +33,7 @@ h1 {
 }
 
 .card:hover {
-  box-shadow: 0px 0px 20px white;
+  box-shadow: 0px 0px 20px #ff512f;
   transition: .5s;
   -webkit-transition: .5s;
   -moz-transition: .5s;
