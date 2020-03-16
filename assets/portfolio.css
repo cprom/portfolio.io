@@ -72,6 +72,13 @@ footer {
   margin-bottom: 0px;
  }
 
+img.card-img-top-a {
+  width: 200px;
+  
+}
+a {
+  text-align: center;
+}
 
 @media (max-width: 576px) {
   form {
