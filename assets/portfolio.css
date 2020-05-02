@@ -72,8 +72,8 @@ footer {
   margin-bottom: 0px;
  }
 
-img.card-img-top-a {
-  width: 200px;
+img.img-bottom {
+  border-bottom: 1px solid black;
   
 }
 a {
